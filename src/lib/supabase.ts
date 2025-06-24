@@ -19,6 +19,7 @@ export interface Movie {
 }
 
 export interface Hall {
+  seat_layout(seat_layout: any): unknown
   hall_id: string
   hall_name: string
   total_seats: number
@@ -28,6 +29,7 @@ export interface Hall {
 }
 
 export interface Showtime {
+  show_time: ReactNode
   showtime_id: string
   movie_id: string
   hall_id: string
