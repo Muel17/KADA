@@ -81,14 +81,6 @@ Once the installation is complete, you can run the application.
 
 2.  **Open your browser** and navigate to `http://localhost:8080` (or the port specified by your server). You should now see the KADA Cinema Ticketing System in action!
 
-## 📸 Screenshots
-
-*(Here you can add screenshots of your application. This is a great way to quickly show off your work!)*
-
-| Movie Listing Page | Seat Selection |
-| :---: | :---: |
-
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
