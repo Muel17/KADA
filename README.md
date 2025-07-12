@@ -87,7 +87,7 @@ Once the installation is complete, you can run the application.
 
 | Movie Listing Page | Seat Selection |
 | :---: | :---: |
-| ![Movie Listing](https://placehold.co/400x300/334155/ffffff?text=Movie+List+UI) | ![Seat Selection](https://placehold.co/400x300/334155/ffffff?text=Seat+Map+UI) |
+
 
 ## 🤝 Contributing
 
