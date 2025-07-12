@@ -1,6 +1,5 @@
 # KADA - Cinema Ticketing System
 
-![KADA Logo](https://placehold.co/600x300/1e293b/ffffff?text=KADA+Cinema)
 
 ## 🎬 Introduction
 
