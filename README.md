@@ -21,7 +21,7 @@ This project is built using a modern web technology stack:
 * **TypeScript:** For robust, scalable, and maintainable code.
 * **JavaScript (ES6+):** For core application logic and interactivity.
 * **HTML5 & CSS3:** For structuring the application and creating a visually appealing design.
-* **Frameworks/Libraries:** (Optional: You can add any frameworks like React, Vue, or Node.js if you used them).
+* **Frameworks/Libraries:** (React, Vite, Google OAuth, ).
 
 ## 🚀 Getting Started
 
